@@ -2,13 +2,21 @@
 
 
 <h2>Description</h2>
-Project consists of a walk through of an Active Directory home lab Environment using Oracle Virtual Box. I configured and implemented Windows networking.<br />
+In this project I set up a home lab running Active Directoy and incorporated users through PowerShell scripting. Using Oracle VirtualBox,  I created a configured virtual environment, emphasizing Windows networking intricacies. The implementation of Active Directory services facilitated a hands-on exploration, providing practical insights into the nuances of network administration and system management concepts.
+<br />
+
+
+<h2>Languages Used</h2>
+
+- <b>PowerShell</b> 
+
 
 <h2>Environments Used </h2>
 
 - <b>Windows 10</b> (21H2)
+- <b>Oracle VM VirtualBox</b> (x86)
 
-<h2>Program walk-through:</h2>
+<h2>Project walk-through:</h2>
 
 <p align="center">
 Launch the utility: <br/>
