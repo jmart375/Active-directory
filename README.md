@@ -19,8 +19,8 @@ In this project I set up a home lab running Active Directoy and incorporated use
 <h2>Project walk-through:</h2>
 
 <p align="center">
-Launch VirtualBox:  <br/>
-<img src="https://imgur.com/b9KTf8S.png" height="80%" width="80%" alt="VirtualBox"/>
+Launch and configure Domain Controller on VirtualBox:  <br/>
+<img src="https://imgur.com/8ZxjFG2.png" height="80%" width="80%" alt="VirtualBox"/>
 <br />
 <br />
 Select the disk:  <br/>
