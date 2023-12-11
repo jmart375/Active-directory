@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-In this project I set up a home lab running Active Directoy and incorporated users through PowerShell scripting. Using Oracle VirtualBox,  I created a configured virtual environment, emphasizing Windows networking intricacies. The implementation of Active Directory services facilitated a hands-on exploration, providing practical insights into the nuances of network administration and system management concepts.
+In this project I set up a "corporate level" home lab running Active Director and Add Users with PowerShell scripting. Using Oracle VirtualBox,  I created a configured virtual environment, emphasizing Windows networking intricacies. The implementation of Active Directory services facilitated a hands-on exploration, providing practical insights into the nuances of network administration and system management concepts.
 <br />
 
 
@@ -13,22 +13,23 @@ In this project I set up a home lab running Active Directoy and incorporated use
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
 - <b>Oracle VM VirtualBox</b> (x86)
+- <b>Windows 10 ISO</b> (21H2)
+- <b>Server 2019 ISO
 
 <h2>Project walk-through:</h2>
 
 <p align="center">
-Launch and configure Domain Controller on VirtualBox:  <br/>
+Set up a Virutal Machine (VM) Windows Server:  <br/>
 <img src="https://imgur.com/8ZxjFG2.png" height="80%" width="80%" alt="VirtualBox"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Rename pc, assign IP address, and change adpaters:  <br/>
+<img src="https://imgur.com/s2nblqH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Configure and confirm Active Directory domain services: <br/>
+<img src="https://imgur.com/nw8AcnS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Confirm your selection:  <br/>
