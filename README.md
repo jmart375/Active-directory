@@ -25,27 +25,27 @@ Set up a Virutal Machine (VM) Windows Server:  <br/>
 <br />
 <br />
 Rename pc, assign IP address, and change adpaters:  <br/>
-<img src="https://imgur.com/s2nblqH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/s2nblqH.png" height="80%" width="80%" alt="VirtualBox"/>
 <br />
 <br />
 Configure and confirm Active Directory domain services: <br/>
-<img src="https://imgur.com/nw8AcnS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/nw8AcnS.png" height="80%" width="80%" alt="VirtualBox"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Confirm and run the following PowerShell script to create User:  <br/>
+<img src="https://imgur.com/OH60dCN.png" height="80%" width="80%" alt="VirtualBox"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Wait for process to complete (may take some time). Lists of Users is now on display:  <br/>
+<img src="https://imgur.com/hvCCH2G.png" height="80%" width="80%" alt="VirtualBox"/>
 <br />
 <br />
 Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="VirtualBox"/>
 <br />
 <br />
 Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="VirtualBox"/>
 </p>
 
 <!--
