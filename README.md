@@ -37,15 +37,15 @@ Confirm and run the following PowerShell script to create User:  <br/>
 <br />
 <br />
 Wait for process to complete (may take some time). Lists of Users is now on display:  <br/>
-<img src="https://imgur.com/hvCCH2G.png" height="80%" width="80%" alt="VirtualBox"/>
+<img src="https://imgur.com/gwGbUf9.png" height="80%" width="80%" alt="VirtualBox"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="VirtualBox"/>
+Set up Virtual Machine (VM) Client1 (Windows 10 ISO):  <br/>
+<img src="https://imgur.com/GpUb5kd.png" height="80%" width="80%" alt="VirtualBox"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="VirtualBox"/>
+Project complete:  <br/>
+<img src="https://imgur.com/izPwC3k.png" height="80%" width="80%" alt="VirtualBox"/>
 </p>
 
 <!--
