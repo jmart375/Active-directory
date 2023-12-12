@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-In this project, a "corporate level" home lab running Active Director and Add Users with PowerShell scripting is set up. Using Oracle VirtualBox,  I created a configured virtual environment, emphasizing Windows networking intricacies. The implementation of Active Directory services facilitated a hands-on exploration, providing practical insights into the nuances of network administration and system management concepts.
+In this project, a "corporate level" home lab running Active Director and Add Users with PowerShell scripting was set up. Using Oracle VirtualBox,  I created a configured virtual environment, emphasizing Windows networking intricacies. The implementation of Active Directory services facilitated a hands-on exploration, providing practical insights into the nuances of network administration and system management concepts.
 <br />
 
 
